@@ -1,0 +1,22 @@
+p {
+    float: right;
+    width: 5%;
+    margins: 5%;
+    padding: 5%;
+}
+p:hover {
+    background-color: red;
+}
+img {
+    float: right;
+    margins: 10px;
+    padding: 10px;
+    position: fixed;
+}
+img:hover {
+    background-color: blue;
+}
+body {
+    width: 2000px;
+    height: 2000px;
+}
